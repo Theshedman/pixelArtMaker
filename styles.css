@@ -1,0 +1,87 @@
+body {
+    
+    background: url('background_image.jpg');
+    background-position: right
+}
+
+header {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+h1 {
+    font-family: 'Nosifer', cursive;
+    font-size: 55px;
+    color: green;
+    text-shadow: 2px 4px burlywood;
+    width: 75%;
+    margin: auto;
+
+}
+
+h1 span {
+    color: red;
+}
+
+h2 {
+    margin: .5em;
+    color: rgb(166, 102, 103);
+    font-size: 1.7em;
+}
+
+section h2 {
+    color: rgb(255, 255, 255);
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+img {
+    display: block;
+    width: 9%;
+    height: 3%;
+    margin-left: 4em;
+}
+
+form {
+    color: green;
+    font-weight: bold;
+}
+
+input[type='submit'] {
+    background: ;
+    color: rgb(129, 8, 8);
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 6em;
+}
+
+main {
+  margin-top: 2em;
+  height: 95vh;
+  text-align: center;
+}
+
+
