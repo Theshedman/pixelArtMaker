@@ -86,6 +86,7 @@ main {
 
 button {
     color: red;
+    margin-bottom: 12px;
 }
 
 em {
