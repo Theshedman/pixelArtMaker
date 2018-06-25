@@ -24,7 +24,8 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 To test and review the live page for the **Pixel Art Maker** please click [here](https://theshedman.github.io/).
 
 ## New_Functionality
-I also added some few functionalities like _**Remove Grid**_ and _**Clear Color**_ Buttons. The former will remove the whole grid should you made a mistake and want to remove everything with no intention redrawing a new grid. While the _**Clear Color**_ button will clear the whole color in the grid. This is used when the user is wants to clear the old art on the grid or to draw a new art. Forcing the user to achieve this by clicking on the cells one after the other is boringsome and as well not a great user experience (UX) and so I added the functionality for the task. 
+I also added some few functionalities like _**Remove Grid**_ and _**Clear Color**_ Buttons. The former will remove the whole grid should the user wants to remove all the grid without making use of the _**submit**_ button which clears and draw new grid. While the _**Clear Color**_ button will clear the whole color in the grid. This is used when the user wants to clear the old color/art on the grid or to draw new pixel art. Forcing the user to achieve this by clicking on the cells one after the other is boringsome and as well not a great user experience (UX) and so I added the functionality for the task.
+**Note:** the user can still click on a cell to clear the color on that very cell should s/he makes a _**minor**_ mistake while painting on the grid.
 
 ## Slack_Handle
 My _**slack handle**_ for the [ALC with Google 3.0](alcwithgoogle3.slack.com) is [@Theshedman](https://alcwithgoogle3.slack.com/team/UAKLQ7VJ4). 
