@@ -84,4 +84,14 @@ main {
   text-align: center;
 }
 
+button {
+    color: red;
+}
 
+em {
+    color: white;
+}
+
+p {
+    color: brown;
+}
