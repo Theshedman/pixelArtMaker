@@ -10,6 +10,8 @@ $(document).ready(() => {
 
     makeGrid();
     applyColor();
+    removeGrid();
+    clearColor();
   });
 });
 
@@ -43,5 +45,23 @@ const applyColor = () => {
     } else {
       $(this).attr('style', 'background-color:' + color);
     }
+  });
+}
+
+//remove the whole grid when a user clicks the Remove Grid button
+const removeGrid = () => {
+  const removeGridButton = $('#removeGrid');
+  const grid = $('tr');
+  removeGridButton.click(() => {
+    grid.remove();
+  });
+}
+
+//clear the whole color when a user clicks the Clear Color button
+const clearColor = () => {
+  const clearColorButton = $('#clearColor');
+  const gridCell = $('td');
+  clearColorButton.click(() => {
+    gridCell.removeAttr('style');
   });
 }
