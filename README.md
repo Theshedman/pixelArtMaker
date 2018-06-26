@@ -34,7 +34,7 @@ My _**slack handle**_ for the [ALC with Google 3.0](alcwithgoogle3.slack.com) is
 I gained a lot of experience during the training on Udacity and more during the project. Not only do I learnt how to manipulate the DOM with Javascript and jQuery but I also have the feeling that I can now build an interactive web page. 
 
 ## Appreciation
-All thanks to [Google](www.google.com), [ALC](https://andela.com), and [Udacity](www.udacity.com) for giving such a wonderful opportunity to learn _**Frontend Web Development**_. This little that I know now has really given my career a new shape of great hope. Thank you so much. You guys are the best. Hopefully believing to make it to the _**Second Phase (NanoDegree)**_ of the scholarship. 
+All thanks to [Google](www.google.com), [ALC](https://andela.com), and [Udacity](www.udacity.com) for giving me such a wonderful opportunity to learn _**Frontend Web Development**_. This little that I know now has really given my career a new shape of great hope. Thank you so much. You guys are the best. Hopefully believing to make it to the _**Second Phase (NanoDegree)**_ of the scholarship. 
 
 Much love :)
 # theshedman.github.io
