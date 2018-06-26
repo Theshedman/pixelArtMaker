@@ -96,3 +96,52 @@ em {
 p {
     color: brown;
 }
+
+@media only screen and (max-width: 760px) {
+    h1 {
+        font-size: 28px;
+    }
+
+    h2 {
+        color: white;
+    }
+
+    img {
+        margin-left: 0;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    h1 {
+        font-size: 23px;
+    }
+
+   
+
+    label, input {
+        display: block;
+        margin: auto;
+    }
+
+    input, input[type=number]  {
+        width: 12em;
+    }
+
+     label{
+         margin-top: 16px;
+     }
+
+     input[type=submit] {
+         margin-top: 16px;
+         border: 2px solid green;
+     }
+}
+
+@media only screen and (max-width: 500px) {
+    h1 {
+        font-size: 26px;
+    }
+    h1 span {
+        display: block;
+    }
+}
