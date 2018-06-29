@@ -64,6 +64,8 @@ td {
 table {
     border-collapse: collapse;
     margin: 0 auto;
+    background-color: white;
+    border: 4px;
 }
 
 tr {
