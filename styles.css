@@ -64,8 +64,9 @@ td {
 table {
     border-collapse: collapse;
     margin: 0 auto;
-    background: white;
-    border: 4px;
+    background: rgba(255,255,255,0.4);
+    border: 8px;
+    box-shadow: 4px 4px 2px 1px gray;
 }
 
 tr {
