@@ -1,5 +1,5 @@
 # Pixel Art Maker Project
-
+![project screenshot](Screenshot.png)
 ## Table of Contents
 
 * [Instructions](#instructions)
@@ -18,7 +18,7 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 
 ## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+This repository is the starter code for _all_ Udacity students-. Therefore, we most likely will not accept pull requests.
 
 ## Live_Page
 To test and review the live page for the **Pixel Art Maker** please click [here](https://theshedman.github.io/).
