@@ -4,9 +4,9 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-* [Live_Page](#live_page)
-* [New_Functionality](#new_functionality)
-* [Slack_Handle](#slack_handle)
+* [Live Page](#live_page)
+* [New Functionality](#new_functionality)
+* [Slack Handle](#slack_handle)
 * [Experience](#experience)
 * [Appreciation](#appreciation)
 
