@@ -31,7 +31,9 @@ I also added some few functionalities like _**Remove Grid**_ and _**Clear Color*
 
 ##Logo
 I create a logo for the _pixel art maker_. This will make it to stand out from other _pixel art maker_ out there. The logo is unique. See the logo below:
+
 ![pixel art logo](logo.jpg)
+
 
 ## Slack_Handle
 My _**slack handle**_ for the [ALC with Google 3.0](alcwithgoogle3.slack.com) is [@Theshedman](https://alcwithgoogle3.slack.com/team/UAKLQ7VJ4). 
