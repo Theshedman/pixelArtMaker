@@ -1,8 +1,6 @@
 body {
-    
-    background: url('background_image.jpg');
+    background: url('background_image.jpg') repeat;
     background-position: right;
-    background-size: contain;
 }
 
 header {
@@ -19,7 +17,7 @@ h1 {
     width: 75%;
     margin: auto;
     text-align: center;
-    background-color: rgba(0, 0, 0, 0.07);
+    background-color: rgba(0, 0, 0, 0.17);
 }
 
 h1 span {
@@ -28,12 +26,8 @@ h1 span {
 
 h2 {
     margin: .5em;
-    color: rgb(166, 102, 103);
+    color: rgb(0, 0, 0);
     font-size: 1.7em;
-}
-
-section h2 {
-    color: rgb(255, 255, 255);
 }
 
 h2:first-of-type {
@@ -48,7 +42,7 @@ img {
 }
 
 form {
-    color: green;
+    color: black;
     font-weight: bold;
 }
 
@@ -60,13 +54,13 @@ input[type='submit'] {
 table,
 tr,
 td {
-    border: 1px solid rgba(0, 0, 0, 0.548);
+    border: 1.87px solid rgba(0, 0, 0, 0.548);
 }
 
 table {
     border-collapse: collapse;
     margin: 0 auto;
-    background: rgba(255,255,255,0.4);
+    background-color: rgba(255, 255, 255, 0.349);
     box-shadow: 0.6px 3.8px rgba(128, 128, 128, 0.637);
 }
 
@@ -83,9 +77,9 @@ input[type=number] {
 }
 
 main {
-  margin-top: 2em;
-  height: 95vh;
-  text-align: center;
+    margin-top: 2em;
+    height: 95vh;
+    text-align: center;
 }
 
 input[type="submit"],
@@ -116,18 +110,16 @@ em {
 }
 
 p {
-    color: brown;
+    color: black;
 }
 
 @media only screen and (max-width: 760px) {
     h1 {
         font-size: 28px;
     }
-
     h2 {
         color: white;
     }
-
     img {
         margin-left: 0;
     }
@@ -137,26 +129,22 @@ p {
     h1 {
         font-size: 23px;
     }
-
-   
-
-    label, input {
+    label,
+    input {
         display: block;
         margin: auto;
     }
-
-    input, input[type=number]  {
+    input,
+    input[type=number] {
         width: 12em;
     }
-
-     label{
-         margin-top: 16px;
-     }
-
-     input[type=submit] {
-         margin-top: 16px;
-         border: 2px solid green;
-     }
+    label {
+        margin-top: 16px;
+    }
+    input[type=submit] {
+        margin-top: 12px;
+        border: 1px solid green;
+    }
 }
 
 @media only screen and (max-width: 500px) {
