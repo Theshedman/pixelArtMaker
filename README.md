@@ -6,9 +6,11 @@
 * [Contributing](#contributing)
 * [Live Page](#live_page)
 * [New Functionality](#new_functionality)
+* [Logo](#logo)
 * [Slack Handle](#slack_handle)
 * [Experience](#experience)
 * [Appreciation](#appreciation)
+* [License](#license)
 
 ## Instructions
 
@@ -27,6 +29,10 @@ Please follow this [link](https://theshedman.github.io/) to visit the github pag
 I also added some few functionalities like _**Remove Grid**_ and _**Clear Color**_ Buttons. The former will remove the whole grid should the user wants to remove all the grid without making use of the _**submit**_ button which clears and draw new grid. While the _**Clear Color**_ button will clear the whole color in the grid. This is used when the user wants to clear the old color/art on the grid or to draw new pixel art. Forcing the user to achieve this by clicking on the cells one after the other is boringsome and as well not a great user experience (UX) and so I added the functionality for the task.
 **Note:** the user can still click on a cell to clear the color on that very cell should s/he makes a _**minor**_ mistake while painting on the grid.
 
+##Logo
+I create a logo for the _pixel art maker_. This will make it to stand out from other _pixel art maker_ out there. The logo is unique. See the logo below:
+![pixel art logo](logo.jpg)
+
 ## Slack_Handle
 My _**slack handle**_ for the [ALC with Google 3.0](alcwithgoogle3.slack.com) is [@Theshedman](https://alcwithgoogle3.slack.com/team/UAKLQ7VJ4). 
 
@@ -37,6 +43,13 @@ I gained a lot of experience during the training on Udacity and more during the 
 All thanks to [Google](www.google.com), [ALC](https://andela.com), and [Udacity](www.udacity.com) for giving me such a wonderful opportunity to learn _**Frontend Web Development**_. This little that I know now has really given my career a new shape of great hope. Thank you so much. You guys are the best. Hopefully believing to make it to the _**Second Phase (NanoDegree)**_ of the scholarship. 
 
 Much love :)
+
+## License
+**_Theshedman/theshedman.github.io_** is licensed under the
+
+**_MIT License_**. Click [here](LICENSE) to learn more.
+
+
 
 
 Please follow this [link](https://theshedman.github.io/) to visit the github page for the pixel art maker.
