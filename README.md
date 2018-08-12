@@ -29,7 +29,7 @@ Please follow this [link](https://theshedman.github.io/) to visit the github pag
 I also added some few functionalities like _**Remove Grid**_ and _**Clear Color**_ Buttons. The former will remove the whole grid should the user wants to remove all the grid without making use of the _**submit**_ button which clears and draw new grid. While the _**Clear Color**_ button will clear the whole color in the grid. This is used when the user wants to clear the old color/art on the grid or to draw new pixel art. Forcing the user to achieve this by clicking on the cells one after the other is boringsome and as well not a great user experience (UX) and so I added the functionality for the task.
 **Note:** the user can still click on a cell to clear the color on that very cell should s/he makes a _**minor**_ mistake while painting on the grid.
 
-##Logo
+## Logo
 I create a logo for the _pixel art maker_. This will make it to stand out from other _pixel art maker_ out there. The logo is unique. See the logo below:
 
 ![pixel art logo](logo.jpg)
